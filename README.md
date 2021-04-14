@@ -1,1 +1,14 @@
-# BT--Code-week9
+# D answers :
+1. III
+2. III
+3. II
+4. III
+5. II,III
+6. III
+7. III
+8. IV
+9. II
+10. IV
+11. III
+12. III
+13. III
